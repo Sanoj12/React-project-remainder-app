@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-project-remainder-app/static/css/main.72fd3760.css",
+    "main.js": "/React-project-remainder-app/static/js/main.a7a2fa77.js",
+    "static/js/453.372c1abf.chunk.js": "/React-project-remainder-app/static/js/453.372c1abf.chunk.js",
+    "index.html": "/React-project-remainder-app/index.html",
+    "main.72fd3760.css.map": "/React-project-remainder-app/static/css/main.72fd3760.css.map",
+    "main.a7a2fa77.js.map": "/React-project-remainder-app/static/js/main.a7a2fa77.js.map",
+    "453.372c1abf.chunk.js.map": "/React-project-remainder-app/static/js/453.372c1abf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72fd3760.css",
+    "static/js/main.a7a2fa77.js"
+  ]
+}
